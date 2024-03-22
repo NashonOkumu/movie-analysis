@@ -40,6 +40,14 @@ contains information on movie reviews, movie studios and rating
 according to gross as well as the preferred movie genres ![](image.png)
 ![](image-2.png) ![](image-3.png) ![](image-4.png)
 
+![image](https://github.com/NashonOkumu/movie-analysis/assets/66790358/ccfd4fd5-7870-4adf-a441-2ddd9ee67ed0)
+
+![image](https://github.com/NashonOkumu/movie-analysis/assets/66790358/8df2485c-56b2-4c20-b6f5-af0d9f915e59)
+
+![image](https://github.com/NashonOkumu/movie-analysis/assets/66790358/be3169ea-6b7e-469e-9a6f-b24ae1568898)
+
+![image](https://github.com/NashonOkumu/movie-analysis/assets/66790358/92f81c0c-014d-4489-b082-b4d6202e3b3a)
+
 #### Conclusion
 
 -   Microsft to invest more in Sci/Fi and action genres as they sell
